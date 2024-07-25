@@ -1,2 +1,9 @@
 - title: 首页 - Home
   url: /
+- title: 音楽的同位体 - 原创曲
+  url: /categories/#原创曲
+- title: 音楽的同位体 - 创作记录
+  url: /categories/#创作记录
+- title: 二次创作
+  url: /categories/#二次创作
+
