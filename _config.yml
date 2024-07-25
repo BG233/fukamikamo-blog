@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: 鸭子的赛博老巢
+description: 嘎嘎尬
 url: https://vszhub.github.io
-avatar: /avatar.jpeg
+avatar: /assets/avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /assets/bg_20240725.png
 
 # Gems
 plugins:

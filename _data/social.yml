@@ -1,9 +1,12 @@
-- title: Email
-  url: mailto://vszhub@gmail.com
-  icon: fas fa-envelope
+# - title: Email
+#   url: mailto://vszhub@gmail.com
+#   icon: fas fa-envelope
+- title: Weibo
+  url: https://weibo.com/u/2403583010
+  icon: fab fa-weibo
 - title: Twitter
-  url: https://twitter.com/vszhub
+  url: https://x.com/Fukamikamo
   icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/BG233
   icon: fab fa-github
