@@ -7,6 +7,9 @@
 - title: Twitter
   url: https://x.com/Fukamikamo
   icon: fab fa-twitter
+- title: Bluesky
+  url: https://bsky.app/profile/fukamikamo.bsky.social
+  icon: fab fa-bluesky
 - title: GitHub
   url: https://github.com/BG233
   icon: fab fa-github
