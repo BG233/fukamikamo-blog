@@ -9,7 +9,7 @@
   icon: fab fa-twitter
 - title: Bluesky
   url: https://bsky.app/profile/fukamikamo.bsky.social
-  icon: fab fa-bluesky
+  icon: fa-brands fa-bluesky
 - title: GitHub
   url: https://github.com/BG233
   icon: fab fa-github
