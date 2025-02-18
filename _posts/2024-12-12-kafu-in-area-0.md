@@ -13,10 +13,12 @@ toc: true
 在游玩本作之前，推荐将原作「神椿市协奏中。」游玩至进度100%。
 ```
 本作的剧本、美术、制作以及一部分的音乐将由鸭子个人独立完成，目前还在开发初期。（当然也不排除中后期需要找外援的可能）<br/>
-预计的完成时间为2025年年内，届时将<b>无料</b>公开。<br/>
+预计的完成时间为<b>2025年年末~2026年年初</b>，届时将<b>无料</b>公开。<br/>
 
 如果您想请鸭子喝一杯咖啡助力鸭子早日做完，可以走[爱发电](https://afdian.com/a/fukamikamo)。
 
+## ◇ 项目里程碑 ◇
+![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/9.png)
 
 ## ◇ 登场角色 ◇
 ![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/5.png)
