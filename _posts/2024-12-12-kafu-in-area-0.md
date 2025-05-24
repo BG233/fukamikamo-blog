@@ -31,7 +31,12 @@ toc: true
 打开方式：
 解压压缩包后，双击【カフと未完成な零番街.exe】。
 
+下载方式：
 [点击此处下载DEMO](https://github.com/BG233/fukamikamo-blog/releases/download/demo_v0.1/DEMO.KafuInAreaZero_v0.1.zip)
+
+上面方式下载过慢可以尝试使用夸克网盘：
+链接：https://pan.quark.cn/s/e240b969cddc
+提取码：VyhF
 
 ## ◇ 项目里程碑 ◇
 ![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/9-1.png)
