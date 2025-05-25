@@ -18,32 +18,40 @@ toc: true
 如果您想请鸭子喝一杯咖啡助力鸭子早日做完，可以走[爱发电](https://afdian.com/a/fukamikamo)。
 
 ## ◇ DEMO试玩 ◇
-类型：剧情向RPG，非常轻度的探索/解谜
+<b>类型：</b>剧情向RPG，非常轻度的探索/解谜
 
-平台：Windows
+<b>平台：</b>Windows
 
-基本操作：
+<b>基本操作：</b>
 
 * 方向键或WASD移动, 按住Shift跑步；
 * Z键或空格键确定, X键或Esc键取消;
 * X打开或关闭菜单。
 
-打开方式：
+<b>打开方式：</b>
+
 解压压缩包后，双击【カフと未完成な零番街.exe】。
 
-下载方式：
-[点击此处下载DEMO](https://github.com/BG233/fukamikamo-blog/releases/download/demo_v0.1/DEMO.KafuInAreaZero_v0.1.zip)
+<b>DEMO版本公开的内容：</b>
+
+序章部分以及PartA的开头一点点~
+
+<b>下载方式：</b>
+
+最新版本v0.1.1 [点击此处下载DEMO](https://github.com/BG233/fukamikamo-blog/releases/download/demo_v0.1.1/DEMO.KafuInAreaZero_v0.1.1.zip)
 
 上面方式下载过慢可以尝试使用夸克网盘：
-链接：https://pan.quark.cn/s/e240b969cddc
-提取码：VyhF
+
+链接：https://pan.quark.cn/s/60d572546259
+提取码：DrHd
 
 ## ◇ 项目里程碑 ◇
 ![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/9-1.png)
 【更新日志】
-* 【2025/05/25】partB制作40%；线上发布试玩demo-v0.1。
+* 【2025/05/25】修复试玩demo-v0.1会导致游戏无法进行的bug，更新demov0.1.1。
+* 【2025/05/25】partB制作约40%；线上发布试玩demo-v0.1。
 * 【2025/04/20】partA主线部分100%，遗留部分小支线和细化；partB开始制作。
-* 【2025/03/11】partA约50%。
+* 【2025/03/11】partA制作约50%。
 * 【2025/02/15】demo制作完成（故事的序章部分），第一次线下试玩@cpgz07。
 * 【2024/10/03】项目启动。
 
