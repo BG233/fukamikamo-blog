@@ -48,6 +48,7 @@ toc: true
 ## ◇ 项目里程碑 ◇
 ![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/9-1.png)
 【更新日志】
+* 【2025/07/23】partB主线部分100%， partC开始制作；
 * 【2025/07/04】partB制作约80%；
 * 【2025/05/25】修复试玩demo-v0.1会导致游戏无法进行的bug，更新demov0.1.1。
 * 【2025/05/25】partB制作约40%；线上发布试玩demo-v0.1。
