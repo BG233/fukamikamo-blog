@@ -48,6 +48,7 @@ toc: true
 ## ◇ 项目里程碑 ◇
 ![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/9-1.png)
 【更新日志】
+* 【2025/11/13】partD制作50%；
 * 【2025/09/23】partC制作100%， partD开始制作；
 * 【2025/08/31】partC制作约60%；
 * 【2025/07/23】partB主线部分100%， partC开始制作；
