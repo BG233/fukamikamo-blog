@@ -49,6 +49,7 @@ toc: true
 ## ◇ 项目里程碑 ◇
 ![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/9-1.png)
 【更新日志】
+* 【2026/01/10】RPG制作再开；
 * 【2025/12/01】因为在绘制新漫画，11月中~12月末游戏制作暂停，漫画完成后制作再开；
 * 【2025/11/13】partD制作50%；
 * 【2025/09/23】partC制作100%，partD开始制作；
