@@ -49,6 +49,7 @@ toc: true
 ## ◇ 项目里程碑 ◇
 ![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/9-1.png)
 【更新日志】
+* 【2026/02/07】partD制作100%，在终章制作开始之前，先进入短暂的调整阶段；
 * 【2026/01/10】RPG制作再开；
 * 【2025/12/01】因为在绘制新漫画，11月中~12月末游戏制作暂停，漫画完成后制作再开；
 * 【2025/11/13】partD制作50%；
@@ -78,21 +79,10 @@ toc: true
 ![picture 3](/fukamikamo-blog/assets/posts/kafu-in-area-0/3.png)
 ![picture 4](/fukamikamo-blog/assets/posts/kafu-in-area-0/4.png)
 
-## ◇ 活动记录 ◇
-### ◆ CPGZ07(2025-02-15 ~ 2025-02-16)
-本作的demo版本将于CPGZ07进行第一次线下试玩。
-
-可以游玩约10分钟左右的流程（本作故事的序章部分）。
-
-<b>线下活动特典：</b>
-* 「カフと未完成な零番街」主人公酱明信片一枚
-* 「カフと未完成な零番街」主人公酱粒牌一枚（通过扭蛋的方式在两种样式中随机一种）
-  * 请鸭子喝过咖啡的朋友可以直接领取两种
-  
-![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/event-1.png)
 
 ---
 
+## ◇ 零番街涂鸦墙 ◇
 
-## Under construction……
-随着建设进度的推进，这里将会更新更多的信息。
+
+---
