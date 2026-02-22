@@ -83,6 +83,5 @@ toc: true
 ---
 
 ## ◇ 零番街涂鸦墙 ◇
-
-
+![picture 1](/fukamikamo-blog/assets/posts/kafu-in-area-0/rkgk1.png)
 ---
