@@ -49,6 +49,7 @@ toc: true
 ## ◇ 项目里程碑 ◇
 ![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/9-1.png)
 【更新日志】
+* 【2026/04/26】主线终章制作约30%；
 * 【2026/03/09】主线终章制作开始；
 * 【2026/02/07】partD制作100%，在终章制作开始之前，先进入短暂的调整阶段；
 * 【2026/01/10】RPG制作再开；
@@ -86,4 +87,6 @@ toc: true
 ## ◇ 零番街涂鸦墙 ◇
 ![picture 1](/fukamikamo-blog/assets/posts/kafu-in-area-0/rkgk1.png)
 ![picture 2](/fukamikamo-blog/assets/posts/kafu-in-area-0/rkgk2.png)
+![picture 3](/fukamikamo-blog/assets/posts/kafu-in-area-0/rkgk3.png)
+![picture 4](/fukamikamo-blog/assets/posts/kafu-in-area-0/rkgk4.png)
 ---
