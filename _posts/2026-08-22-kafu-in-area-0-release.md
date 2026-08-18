@@ -45,7 +45,7 @@ toc: true
 ![picture 4](/fukamikamo-blog/assets/posts/kafu-in-area-0/release-4.png)
 
 ## ◇ 简要攻略 ◇
-[请点这里](https://bg233.github.io/fukamikamo-blog/%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%BD%9C/2026/8/22/kafu-in-area-0-tips/)
+[请点这里](https://bg233.github.io/fukamikamo-blog/%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%BD%9C/2026/08/01/kafu-in-area-0-tips/)
 
 ## ◇ 问题反馈 ◇
 如遇到BUG，请移步鸭子的工作邮箱fukamikamo.work@gmail.com留下您的问题。

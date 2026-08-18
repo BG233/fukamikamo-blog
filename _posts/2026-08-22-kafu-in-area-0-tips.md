@@ -21,35 +21,30 @@ toc: true
   <p> 等级>=15。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>第二个BOSS</summary>
   <p> 等级>=20。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>第三个BOSS</summary>
   <p> 等级>=30。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>第四个BOSS</summary>
   <p> 等级>=35。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>第五个BOSS</summary>
   <p> 等级>=35。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>第六个BOSS</summary>
@@ -65,35 +60,30 @@ toc: true
   <p> 倒计数查看方式：1.平板；2.与小鱼对话（需要一定条件才能触发选项）。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>【NE1】</summary>
   <p> 壱番街海边棕色木板地板的中央触发。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>【NE2】</summary>
   <p> 在未收集齐全碎片以及队友“疲惫度”达到最高等级的条件下，乘坐中央行政厅的电梯。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>【NE3】</summary>
   <p> 最后的决战中选择第二个选项。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>【BE1】</summary>
   <p> 在队友“疲惫度”尚未达到最高等级的条件下，乘坐中央行政厅的电梯。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>【NE-1】</summary>
@@ -101,7 +91,6 @@ toc: true
   <p> 倒计数查看方式：1.平板；2.与小鱼对话（需要一定条件才能触发选项）。 </p>
 </details>
 
-</br>
 
 <details>
   <summary>【TE】</summary>
@@ -116,7 +105,6 @@ toc: true
   <p>新手教程。</p>
 </details>
 
-</br>
 
 <details>
   <summary>Type-β_02</summary>
@@ -129,7 +117,6 @@ toc: true
     </details>
 </details>
 
-</br>
 
 <details>
   <summary>Type-β_03</summary>
@@ -139,14 +126,12 @@ toc: true
   <p> 公园方向主线通关后，调查公园入口处长椅。</p>
 </details>
 
-</br>
 
 <details>
   <summary>Type-β_04</summary>
   <p> 公园方向主线。</p>
 </details>
 
-</br>
 
 <details>
   <summary>Type-β_05</summary>
@@ -156,14 +141,12 @@ toc: true
   <p> 地下街入口。</p>
 </details>
 
-</br>
 
 <details>
   <summary>Type-β_06</summary>
   <p> 放送局方向主线。</p>
 </details>
 
-</br>
 
 <details>
   <summary>Type-β_07</summary>
@@ -174,35 +157,30 @@ toc: true
   <p> 公会堂舞台最右侧。</p>
 </details>
 
-</br>
 
 <details>
   <summary>Type-β_08</summary>
   <p> 公会堂方向主线通过后，解锁地下铁时结晶会出现在重要物品口袋。</p>
 </details>
 
-</br>
 
 <details>
   <summary>Type-α_01</summary>
   <p> 图书馆或者大学门口。</p>
 </details>
 
-</br>
 
 <details>
   <summary>Type-α_02</summary>
   <p> 通往住宅区的桥上。</p>
 </details>
 
-</br>
 
 <details>
   <summary>Type-α_03</summary>
   <p> 住宅区中上方的墙壁有巨大的鱼影，等待鱼影行走到地面上后进行调查。</p>
 </details>
 
-</br>
 
 <details>
   <summary>Type-αU</summary>
@@ -217,49 +195,42 @@ toc: true
   <p> 神椿大学3F。</p>
 </details>
 
-</br>
 
 <details>
   <summary>???1</summary>
   <p> 图书馆入口处。</p>
 </details>
 
-</br>
 
 <details>
   <summary>???2</summary>
   <p> 图书馆左侧暗门内。</p>
 </details>
 
-</br>
 
 <details>
   <summary>???3</summary>
   <p> 图书馆右侧暗门内。</p>
 </details>
 
-</br>
 
 <details>
   <summary>???4</summary>
   <p> 在图书馆右侧暗门内的暗门内完成收集后，返回图书馆右侧暗门内。</p>
 </details>
 
-</br>
 
 <details>
   <summary>队友技能1</summary>
   <p> 入队即获得。</p>
 </details>
 
-</br>
 
 <details>
   <summary>队友技能2</summary>
   <p> 等级提升至37级。</p>
 </details>
 
-</br>
 
 <details>
   <summary>队友技能3</summary>
@@ -274,7 +245,6 @@ toc: true
   <p> 3. 将其放入图书馆入口处左侧画框。</p>
 </details>
 
-</br>
 
 <details>
   <summary>右侧暗门</summary>
