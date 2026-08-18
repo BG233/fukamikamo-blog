@@ -30,6 +30,9 @@ toc: true
 
 解压压缩包后，双击【カフと未完成な零番街.exe】。
 
+<b>游玩时长：</b>
+到达TE为止约5-8小时。
+
 ## ◇ 登场角色 ◇
 ![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/5.png)
 ![picture](/fukamikamo-blog/assets/posts/kafu-in-area-0/6.png)
