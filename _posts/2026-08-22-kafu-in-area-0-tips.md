@@ -181,7 +181,7 @@ toc: true
 <details>
   <summary>【Type-β_08】</summary>
   <p></p>
-  <p> 公会堂方向主线通过后，解锁地下铁时结晶会出现在重要物品口袋。</p>
+  <p> 公会堂方向主线通过后出现在重要物品口袋。</p>
 </details>
 
 
