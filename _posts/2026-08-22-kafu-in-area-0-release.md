@@ -1,6 +1,6 @@
 ---
 layout: post
-title: -GAME- カフと未完成な零番街[正式发布]
+title: -GAME- カフと未完成な零番街[准备发布]
 categories: 二次创作
 tags:
 - 可不
