@@ -270,6 +270,8 @@ toc: true
   <p> 等级提升至40级。</p>
 </details>
 
+---
+
 ## ◇ 图书馆 ◇
 <details>
   <summary>【左侧暗门】</summary>
@@ -292,4 +294,25 @@ toc: true
         <summary>【暗门中的暗门】</summary>
         <p> 调查上部桌子上的两叠书可获得开关位置的提示。</p>
     </details>
+</details>
+
+---
+
+## ◇ 二周目 ◇
+<details>
+  <summary>【二周目相关】</summary>
+  <p></p>
+  <details>
+    <summary>【如何开启】</summary>
+    <p></p>
+    <p>1. 经历过TE后，在【www】文件夹里找到【data】文件夹并进入；</p>
+    <p>2. 按照TE结局的提示打开对应文件，并按照文件内的指示操作。</p>
+  </details>
+  <details>
+    <summary>【二周目房间】</summary>
+    <p></p>
+    <p>1. 经历过TE后，从任意存档或新游戏进入游戏；</p>
+    <p>2. 以角色KAFU访问中央通路有眼睛标记的房门。</p>
+  </details>
+
 </details>
