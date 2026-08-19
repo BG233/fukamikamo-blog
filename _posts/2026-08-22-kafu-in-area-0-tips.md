@@ -47,14 +47,14 @@ toc: true
 <details>
   <summary>【第五个BOSS】</summary>
   <p></p>
-  <p> 等级>=35。 </p>
+  <p> 等级>=35。撑住20个回合后击败。 </p>
 </details>
 
 
 <details>
   <summary>【第六个BOSS】</summary>
   <p></p>
-  <p> 无限制。 </p>
+  <p> 无限制。撑住20个回合。 </p>
 </details>
 
 ---
