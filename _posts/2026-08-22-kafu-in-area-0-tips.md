@@ -78,14 +78,14 @@ toc: true
 <details>
   <summary>【NE2】</summary>
   <p></p>
-  <p> 在未收集齐全碎片以及队友“疲惫度”达到最高等级的条件下，乘坐中央行政厅的电梯。 </p>
+  <p> 最后的决战中选择第二个选项。 </p>
 </details>
 
 
 <details>
   <summary>【NE3】</summary>
   <p></p>
-  <p> 最后的决战中选择第二个选项。 </p>
+  <p> 在未收集齐全碎片以及队友“疲惫度”达到最高等级的条件下，乘坐中央行政厅的电梯。 </p>
 </details>
 
 
