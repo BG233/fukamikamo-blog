@@ -20,6 +20,8 @@ toc: true
 
 <b>平台：</b>Windows
 
+<b>支持语言：</b>简体中文
+
 <b>基本操作：</b>
 
 * 方向键或WASD移动, 按住Shift跑步；
