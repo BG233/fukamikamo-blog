@@ -71,7 +71,7 @@ toc: true
 <details>
   <summary>【NE1】</summary>
   <p></p>
-  <p> 壱番街海边棕色木板地板的中央触发。 </p>
+  <p> 在背包中没有谜之数据的情况下，前往壱番街海边棕色木板地板的中央触发。 </p>
 </details>
 
 
