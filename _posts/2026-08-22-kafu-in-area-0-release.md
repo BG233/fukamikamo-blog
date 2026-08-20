@@ -17,7 +17,8 @@ toc: true
 * 网页直接下载：[点击此处下载v1.1版本](https://github.com/BG233/fukamikamo-blog/releases/download/release-v1.1/KafuMikansei-v1.1.rar)
 * 夸克网盘：[链接地址](https://pan.quark.cn/s/eb067aa1f403) 提取码：3c5H
 
-## ◇ 存档迁移 ◇
+<b>存档迁移：</b>
+
 * 将旧版本中【www】文件夹中的【save】文件夹，复制到新版本的【www】文件夹中即可。
 
 ## ◇ 游戏说明 ◇
@@ -91,4 +92,5 @@ OK的情况：
 * 出现问题的存档文件（【www】文件夹中的【save】文件夹）。
 
 ## ◇ 发布日志 ◇
+* 2026-8.20 22：00 V1.1，修复某项物品可以无限复制的BUG。
 * 2026-8.20 20：00公开V1.0。
