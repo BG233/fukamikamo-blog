@@ -14,7 +14,7 @@ toc: true
 ```
 ## ◇ 游戏下载 ◇
 【2026-8.20 20：00公开】
-* 网页直接下载：[点击此处下载v1.0版本【暂为空链接】]()
+* 网页直接下载：[点击此处下载v1.0版本](https://github.com/BG233/fukamikamo-blog/releases/download/release-v1.0/KafuMikansei-v1.0.rar)
 * 夸克网盘：[链接地址](https://pan.quark.cn/s/eb067aa1f403) 提取码：3c5H
 
 ## ◇ 游戏说明 ◇
