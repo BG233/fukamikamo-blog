@@ -18,6 +18,8 @@ toc: true
 * 夸克网盘：[链接地址](https://pan.quark.cn/s/eb067aa1f403) 提取码：3c5H
 
 ## ◇ 游戏说明 ◇
+<b>原作：</b>「神椿市协奏中。」
+
 <b>类型：</b>剧情向RPG，非常轻度的探索/解谜
 
 <b>平台：</b>Windows
