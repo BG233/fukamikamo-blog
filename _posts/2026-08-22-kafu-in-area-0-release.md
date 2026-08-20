@@ -14,8 +14,11 @@ toc: true
 ```
 ## ◇ 游戏下载 ◇
 【2026-8.20 20：00公开】
-* 网页直接下载：[点击此处下载v1.0版本](https://github.com/BG233/fukamikamo-blog/releases/download/release-v1.0/KafuMikansei-v1.0.rar)
+* 网页直接下载：[点击此处下载v1.1版本](https://github.com/BG233/fukamikamo-blog/releases/download/release-v1.1/KafuMikansei-v1.1.rar)
 * 夸克网盘：[链接地址](https://pan.quark.cn/s/eb067aa1f403) 提取码：3c5H
+
+## ◇ 存档迁移 ◇
+* 将旧版本中【www】文件夹中的【save】文件夹，复制到新版本的【www】文件夹中即可。
 
 ## ◇ 游戏说明 ◇
 <b>原作：</b>「神椿市协奏中。」
