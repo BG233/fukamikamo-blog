@@ -13,7 +13,7 @@ toc: true
 在游玩本作之前，推荐将原作「神椿市协奏中。」游玩至进度100%。
 ```
 ## ◇ 游戏下载 ◇
-* 网页直接下载：[点击此处下载v1.3版本](https://github.com/BG233/fukamikamo-blog/releases/download/release-v1.3/KafuMikansei-v1.3.rar)
+* 网页直接下载：[点击此处下载v1.4版本](https://github.com/BG233/fukamikamo-blog/releases/download/release-v1.4/KafuMikansei-v1.4.rar)
 * 夸克网盘：[链接地址](https://pan.quark.cn/s/eb067aa1f403) 提取码：3c5H
 
 <b>存档迁移：</b>
